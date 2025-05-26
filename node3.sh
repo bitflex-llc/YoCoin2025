@@ -1,0 +1,1 @@
+./geth --mine --networkid 100824 --gcmode=archive --miner.gasprice=100000000000 --nodiscover --datadir node3 --unlock 0x2f6bdd1e8c4393a9bed5dec1a13429c1e211979d --password /raid/yocoin/pw.tt --allow-insecure-unlock --miner.etherbase 0x2f6bdd1e8c4393a9bed5dec1a13429c1e211979d --port 30309 --authrpc.port 8549
